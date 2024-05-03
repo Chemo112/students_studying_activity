@@ -1,4 +1,7 @@
-﻿***Abstract***
+# Utilizing Machine Learning to Predict Mass Shootings: An Evaluation of Isolation Forest and Random Forest Classifier Models*
+
+ 
+ ***Abstract***
 
 *This study investigates the impact of smartphone usage on students' studying habits. It explores whether smartphones are used for non-study purposes during study times. Utilizing data analysis of app usage and touch frequency, the research finds a slight decrease in smartphone use during study periods, yet highlights that smartphones may act as distractions. The findings particularly emphasize the role of social media and chat applications in disrupting study focus, providing insights into the complex relationship between digital device usage and academic performance.*
 
