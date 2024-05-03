@@ -46,8 +46,8 @@ The scatter plot for the study period reveals a distribution of touch interactio
 
 The corresponding box plot for the study period further elucidates the distribution within each cluster. Cluster 0 exhibits a compact interquartile range, indicating homogeneity in low touch interactions among its users. Cluster 1 displays a broader interquartile range with more variability in touch interactions. Cluster 2, while having a similar interquartile range to Cluster 1, is significantly higher on the touch interaction scale, including some outliers indicating exceptionally high usage.
 
-*Cluster-Based Distribution During Non-Study Period*
 
+***Cluster-Based Distribution During Non-Study Period***
 
 
 For the non-study period, the scatter plot indicates a similar pattern of distribution across clusters. However, there is a noticeable shift in the density of points for Cluster 0, which appears to have more users with higher touch interactions compared to the study period. Clusters 1 and 2 also display increased touch interactions, with Cluster 2 maintaining its position as the cluster with the highest touch interaction levels.
