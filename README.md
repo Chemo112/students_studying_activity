@@ -1,4 +1,4 @@
-# Utilizing Machine Learning to Predict Mass Shootings: An Evaluation of Isolation Forest and Random Forest Classifier Models*
+# Utilizing Machine Learning to Predict Mass Shootings: An Evaluation of Isolation Forest and Random Forest Classifier Models
 
  
  ***Abstract***
